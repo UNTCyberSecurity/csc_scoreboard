@@ -15,6 +15,11 @@ body {
   {% if site.page-img %}
   background-image: url({{ site.page-img }});
   background-attachment: fixed;
+  background-image: url({{ site.page-img }});
+  background-attachment: fixed;
+  background-position: center center;
+  background-repeat:  no-repeat;
+  background-size:  cover;
   {% endif %}
 }
 p {
@@ -630,25 +635,33 @@ footer .theme-by {
 
 table {
   padding: 0;
+  margin-left:auto; 
+  margin-right:auto;
+  width: 100%;
+  color:#19fc05;
+  border: 1px solid #19fc05;
 }
+
+
 table tr {
-  border-top: 1px solid #cccccc;
-  background-color: #ffffff;
+  
+  background-color: #160c06;
   margin: 0;
   padding: 0;
+  border: 1px solid #19fc05;
 }
 table tr:nth-child(2n) {
-  background-color: #f8f8f8;
+  background-color: #160c06;
 }
 table tr th {
   font-weight: bold;
-  border: 1px solid #cccccc;
+  border: 1px solid #19fc05;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
 }
 table tr td {
-  border: 1px solid #cccccc;
+  border: 1px solid #19fc05;
   text-align: left;
   margin: 0;
   padding: 6px 13px;
@@ -791,7 +804,11 @@ td.gutter {
 
 .responsive-wrap iframe{ max-width: 100%;} /*google signin sheet responsive*/
 
-.typewrite { color:#f44242; text-decoration: none;} /*Type write effect color added by allan Chang*/
+.typewrite { color:#00ef0f; 
+
+  text-decoration: none;
+  background:black;
+  } /*Type write effect color added by allan Chang*/
 
 #social-share-section svg {
   top: 5px;

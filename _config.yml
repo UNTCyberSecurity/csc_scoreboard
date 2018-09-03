@@ -22,22 +22,21 @@ description: Cybercop wannabees
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  About:
-    - About Us: "about"
-  Blog/Newsletters: "blog"
-  Resources:
-    - NCL Resources: "nclresource"
-    - Our Discord: "discord"
-    - OWASP: "https://www.owasp.org/index.php/Main_Page"
-    - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
-    - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
-  Events:
-    - Meeting Slides And Notes: "Slides"
-    - Upcoming/Past: "events"
-    - NCL: "ncl"
-    - Programming Group Meeting: "ProgrammingGroupMeeting"
-    - Sign-In: "signin"
+#navbar-links:
+#  About:
+#    - About Us: "about"
+#  Blog/Newsletters: "blog"
+#  Resources:
+#    - Our Discord: "discord"
+#    - OWASP: "https://www.owasp.org/index.php/Main_Page"
+#    - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
+#    - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
+#  Events:
+#    - Meeting Slides And Notes: "Slides"
+#    - Upcoming/Past: "events"
+#    - NCL: "ncl"
+#    - Programming Group Meeting: "ProgrammingGroupMeeting"
+#    - Sign-In: "signin"
     
 
 
@@ -73,11 +72,14 @@ footer-text-col: "#777777"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
+navbar-links:
+  SCORE BOARD: "SCORE_BOARD"
+
 # instead of colour
 
 # navbar-img: "/img/bgimage.png"
 # footer-img: "/img/bgimage.png"
-# page-img: "/img/bgimage.png"
+page-img: "/img/attack1.jpg"
 
 # --- Footer options --- #
 
@@ -91,22 +93,20 @@ author:
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  #rss: false
+  rss: true
   email: "untccsi@gmail.com"
   facebook: UNT-Cyber-Security-Intelligence-Club-333014433722890 
   github: UNTCyberSecurity
   twitter: UNT_CSC
   discord: j3D5Zdp
-  snapchat: UNTCSC
-  instagram: UNTCSC
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-  
-  youtube: channel/UCxGqPk3vSA3fbstN2jGOWFw
+#  instagram: deanat78
+#  youtube: user/deanat78
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
