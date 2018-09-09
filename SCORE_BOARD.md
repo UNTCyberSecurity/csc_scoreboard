@@ -4,12 +4,12 @@ title: Score Board
 subtitle: Get ROOT, Gain Points!
 ---
 
-# LAST UPDATES AT: 09-02-2018
+# LAST UPDATES AT: 09-09-2018
 
 
 | Players       | Score         | ID     |
 |:-------------:|:-------------:|:-----:|
-|               |               |01       |
+|Alex Economy   |    150        |01       |
 |               |               |02       |
 |               |               |03      |
 |               |               |04       |
