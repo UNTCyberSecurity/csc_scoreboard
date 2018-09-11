@@ -43,11 +43,11 @@ img {
 </ul>
 {% endif %}
 
-<h2>Last Update at : 09-09-2018</h2>
+<h2>Last Update at : 09-11-2018</h2>
 
-| Players       | Score         | ID     |
+| Players       | Score         | Rank     |
 |:-------------:|:-------------:|:-----:|
-|ScOOby       |    150        |01       |
+|ScOOby       |    300        |01       |
 |               |               |02       |
 |               |               |03      |
 |               |               |04       |
