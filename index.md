@@ -43,11 +43,11 @@ img {
 </ul>
 {% endif %}
 
-<h2>Last Update at : 11-19-2018</h2>
+<h2>Last Update at : 12-03-2018</h2>
 
 | Players       | Score         | Rank     |
 |:-------------:|:-------------:|:-----:|
-|ScOOby       |    960          |01      |
+|ScOOby       |    1120          |01      |
 |mesin        |    300          |02      |
 |ye3zy            |  300         |03      |
 |dj-b          |  150            |04       |
