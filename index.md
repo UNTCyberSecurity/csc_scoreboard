@@ -43,7 +43,7 @@ img {
 </ul>
 {% endif %}
 
-<h2>Last Update at : 12-03-2018</h2>
+<h2>Last Update at : 1-30-2019</h2>
 
 | Players       | Score         | Rank     |
 |:-------------:|:-------------:|:-----:|
