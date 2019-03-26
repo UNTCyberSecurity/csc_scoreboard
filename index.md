@@ -43,12 +43,12 @@ img {
 </ul>
 {% endif %}
 
-<h2>Last Update at : 2-2-2019</h2>
+<h2>Last Update at : 3-26-2019</h2>
 
 | Players       | Score         | Rank     |
 |:-------------:|:-------------:|:-----:|
 |momo_tree       |    400         |01      |
-|       |             |02      |
+|Wesley    |150           |02      |
 |           |          |03      |
 |         |             |04       |
 |           |         |05       |
